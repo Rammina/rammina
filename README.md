@@ -1,4 +1,4 @@
-### A kind-hearted developer who loves to contribute to society
+## A kind-hearted developer who loves to contribute to society
 
 Hi, I'm Rammina, a passionate full-stack developer who specializes in MERN stack. I also use Typescript and Koa.
 
