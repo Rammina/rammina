@@ -4,7 +4,7 @@ Hi, I'm Rammina, a passionate **full-stack developer** who specializes in **MERN
 
 ### Technologies I use:
 
-<img src="https://github.com/coherencez/tech-logos/blob/master/react.png?raw=true" alt="React Logo" title="React" width="48" height="48" /> <img src="https://github.com/coherencez/tech-logos/blob/master/jslogo.png?raw=true" alt="" width="48" height="48" /> <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript Logo" width="48" height="48" /> <img src="https://github.com/coherencez/tech-logos/blob/master/redux.png?raw=true" alt="Redux Logo" width="48" height="48" />
+<img src="https://github.com/coherencez/tech-logos/blob/master/react.png?raw=true" alt="React Logo" title="React" width="48" height="48" /> <img src="https://github.com/coherencez/tech-logos/blob/master/jslogo.png?raw=true" alt="Javascript Logo" title="Javascript" width="48" height="48" /> <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript Logo" title="TypeScript" width="48" height="48" /> <img src="https://github.com/coherencez/tech-logos/blob/master/redux.png?raw=true" alt="Redux Logo" title="Redux" width="48" height="48" />
 
 <img src="" alt="" width="48" height="48" />
 <img src="" alt="" width="48" height="48" />
