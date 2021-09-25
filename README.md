@@ -1,5 +1,19 @@
-### Hi there 👋
+## Welcome to my profile! 👋
 
+### About Me
+
+Hi, I'm Rammina, a passionate full-stack developer who specializes in MERN stack. I also use Typescript and Koa.
+
+Currently I'm:
+
+- 📚 learning Next.js, Docker, Redis, and other full-stack tech
+- 🗒️ practicing Agile/Scrum 
+- 💪 improving my coding skills and making best practices a habit
+- 🧑‍🤝‍🧑 looking for people to collaborate with on interesting projects
+- 👩‍🏫 mentoring and exchanging information with others
+
+
+**Please check out my projects below!**
 <!--
 **Rammina/rammina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
