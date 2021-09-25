@@ -5,17 +5,17 @@ Hi, I'm Rammina, a passionate **full-stack developer** who specializes in **MERN
 ### Technologies I use:
 
 <img src="https://github.com/coherencez/tech-logos/blob/master/react.png?raw=true" alt="React Logo" width="48" height="48" />
-<img src="" alt="" width="" height="" />
-<img src="" alt="" width="" height="" />
-<img src="" alt="" width="" height="" />
-<img src="" alt="" width="" height="" />
-<img src="" alt="" width="" height="" />
-<img src="" alt="" width="" height="" />
-<img src="" alt="" width="" height="" />
-<img src="" alt="" width="" height="" />
-<img src="" alt="" width="" height="" />
-<img src="" alt="" width="" height="" />
-<img src="" alt="" width="" height="" />
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript Logo" width="48" height="48" />
+<img src="" alt="" width="48" height="48" />
+<img src="" alt="" width="48" height="48" />
+<img src="" alt="" width="48" height="48" />
+<img src="" alt="" width="48" height="48" />
+<img src="" alt="" width="48" height="48" />
+<img src="" alt="" width="48" height="48" />
+<img src="" alt="" width="48" height="48" />
+<img src="" alt="" width="48" height="48" />
+<img src="" alt="" width="48" height="48" />
+<img src="" alt="" width="48" height="48" />
 
 
 ### Currently I'm:
