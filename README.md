@@ -2,7 +2,11 @@
 
 Hi, I'm Rammina, a passionate **full-stack developer** who specializes in **MERN**. I also use **Typescript** and **Koa**.
 
-Currently I'm:
+### Technologies I use:
+
+<img src="" alt="" width="" height="" />
+
+### Currently I'm:
 
 - 📚 learning Next.js, Docker, Redis, and other full-stack tech
 - 🗒️ practicing Agile/Scrum 
