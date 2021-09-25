@@ -1,6 +1,6 @@
 ## A developer who loves to contribute to society
 
-Hi, I'm Rammina, a passionate **full-stack developer** who specializes in MERN. I also use Typescript and Koa.
+Hi, I'm Rammina, a passionate **full-stack developer** who specializes in **MERN**. I also use **Typescript** and **Koa**.
 
 Currently I'm:
 
