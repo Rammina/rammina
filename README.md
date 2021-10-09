@@ -1,6 +1,8 @@
 ## A developer who loves to contribute to society
 
-Hi, I'm Rammina, a passionate **full-stack developer** and **Scrum master** who specializes in **MERN**. I also use **Typescript** and **Koa**.
+Hi, I'm Rammina, a passionate **full-stack developer**, **Scrum master**, and **technical writer** who specializes in **MERN**. I also use **Typescript** and **Koa**.
+
+You can check out my techblog at: https://dev.to/rammina
 
 ### Things I'm skilled at:
 
