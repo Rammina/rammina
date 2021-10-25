@@ -2,7 +2,7 @@
 
 Hi, I'm Rammina, a passionate **full-stack developer**, **Scrum Master**, and **technical writer** who specializes in **MERN**.
 
-You can check out my techblog at: https://dev.to/rammina
+Feel free to check my [techblog](https://dev.to/rammina)! I'm also currently in the middle of my [100 Days of Code and Scrum](https://dev.to/rammina/100-days-of-code-and-scrum-a-new-challenge-24lp), feel free to join me.
 
 ### Things I'm skilled at:
 
@@ -22,17 +22,3 @@ You can check out my techblog at: https://dev.to/rammina
 
 
 **Please check out my projects below!**
-<!--
-**Rammina/rammina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
