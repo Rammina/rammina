@@ -21,4 +21,4 @@ Feel free to check my [techblog](https://dev.to/rammina)! I'm also currently in 
 - 🌐 expanding my network and making developer friends
 
 
-**Please check out my projects below!**
+**Please check out my projects below!** 
