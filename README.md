@@ -1,6 +1,6 @@
 ## A developer who loves to contribute to society
 
-Hi, I'm Rammina, a passionate **full-stack developer**, **Scrum Master**, and **technical writer** who specializes in **MERN**.
+Hi, I'm Rammina, a passionate **full-stack developer** and **technical writer** who specializes in **MERN**.
 
 Feel free to check my [techblog](https://dev.to/rammina)! I'm also currently in the middle of my [100 Days of Code and Scrum](https://dev.to/rammina/100-days-of-code-and-scrum-a-new-challenge-24lp), feel free to join me.
 
