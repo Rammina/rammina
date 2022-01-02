@@ -22,7 +22,3 @@ Feel free to check my [techblog](https://dev.to/rammina)! I'm also currently in 
 
 
 **Please check out my projects below!** 
- 
-  
-   
-  
