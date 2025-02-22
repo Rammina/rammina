@@ -2,7 +2,7 @@
   
 Hi, I'm Rammina, a passionate **full-stack developer** and **technical writer** who specializes in **MERN**. 
 
-You can contact me via ramminadevdesign@gmail.com and 5106957624. Sorry in advance to people who call me. I don't really use my phone :P
+You can contact me via ramminadevdesign@gmail.com and 5106957624.
     
 ### Things I'm skilled at:  
  
