@@ -1,6 +1,6 @@
 ## A developer who loves to contribute to society        
   
-Hi, I'm Rammina, a passionate **full-stack developer** and **technical writer** who specializes in **MERN**. 
+Hi, I'm Rammina, a passionate **full-stack developer**, **AWS DevOps**, and **technical writer** who specializes in **MERN** stack web-apps and AWS cloud infrastructures. 
 
 You can contact me via ramminadevdesign@gmail.com and 5106957624.
     
@@ -13,10 +13,9 @@ You can contact me via ramminadevdesign@gmail.com and 5106957624.
 
 ### Currently I'm:
 
-- 📚 learning Next.js, Docker, Redis, and other full-stack tech
-- 🗒️ practicing Agile/Scrum 
-- 💪 improving my coding skills and making best practices a habit
-- 🧑‍🤝‍🧑 looking for people to collaborate with on interesting projects
+- 📚 studying AWS DevOps technologies
+- 💪 striving hard to become a DevSecOps engineer
+- 🧑‍🤝‍🧑 looking for people to collaborate with on interesting projects (on our free time)
 - 👩‍🏫 mentoring and exchanging information with others
 - 🌐 expanding my network and making developer friends
 
