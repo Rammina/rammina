@@ -1,6 +1,8 @@
 ## A developer who loves to contribute to society        
   
-Hi, I'm Rammina, a passionate **full-stack developer**, **AWS DevOps**, and **technical writer** who specializes in **MERN** stack web-apps and AWS cloud infrastructures. 
+Hi, I'm Rammina! 
+
+A passionate **full-stack developer**, **AWS DevOps**, and **technical writer** who specializes in **MERN** stack web-apps and AWS cloud infrastructures. 
 
 You can contact me via ramminadevdesign@gmail.com and 5106957624.
     
