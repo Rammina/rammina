@@ -29,6 +29,7 @@ Note: **Hover over the images** if you're not sure what they are!
 
 
 **Please check out my projects below!** 
-   
+
+<img src="https://res.cloudinary.com/rammina/image/upload/v1756841883/withoutloveyoucannotseethetruth_yyxlgd.png" alt="Without love, you cannot see the truth." title="Without love, you cannot see the truth." />
              
   
