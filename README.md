@@ -32,4 +32,4 @@ Note: **Hover over the images** if you're not sure what they are!
 - 🌐 expanding my network and making developer friends
 
 
-**Please check out my projects below!** 
+**Please check out my projects below! ⬇️** 
