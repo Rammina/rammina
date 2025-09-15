@@ -6,7 +6,9 @@ A passionate **full-stack developer**, **AWS DevOps**, and **technical writer** 
 
 You can contact me via ramminadevdesign@gmail.com and 5106957624.
 
+<!-- 
 <img src="https://res.cloudinary.com/rammina/image/upload/v1756841883/withoutloveyoucannotseethetruth_yyxlgd.png" alt="Without love, you cannot see the truth." title="Without love, you cannot see the truth." width="600"/>
+ -->  
     
 ### Things I'm skilled at:   
  
