@@ -19,7 +19,7 @@ You can contact me via ramminadevdesign@gmail.com and 5106957624.
 
 ☝ Can you guess what those technologies are?
 
-Note: **Hover over the images** if you're not sure what they are!
+
 <!-- -->  
 
 
