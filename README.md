@@ -15,7 +15,7 @@ You can contact me via ramminadevdesign@gmail.com and 5106957624.
 ### Things I'm skilled at:   
 
 
-<img src="[https://res.cloudinary.com/rammina/image/upload/v1632570240/feature-aws-600x338_n0lbw3.png](https://res.cloudinary.com/rammina/image/upload/v1776569726/githubskillsimage_oflbnj.png)" alt="My skills images" title="AWS" /> 
+<img src="https://res.cloudinary.com/rammina/image/upload/v1776569726/githubskillsimage_oflbnj.png" alt="My skills images" /> 
 
 ☝ Can you guess what those technologies are?
 
