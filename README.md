@@ -21,11 +21,11 @@ You can contact me via ramminadevdesign@gmail.com and 5106957624.
 
 ### Currently I'm:
 
-- 📚 studying AWS DevOps technologies
-- 💪 striving hard to become a DevSecOps engineer
-- 🧑‍🤝‍🧑 looking for people to collaborate with on interesting projects (on our free time)
-- 👩‍🏫 mentoring and exchanging information with others
-- 🌐 expanding my network and making developer friends
+- studying AWS DevOps technologies
+- striving hard to become a DevSecOps engineer
+- looking for people to collaborate with on interesting projects (on our free time)
+- mentoring and exchanging information with others
+- expanding my network and making developer friends
 
 
-**Please check out my projects below! ⬇️** 
+**Please check out my projects below! ** 
