@@ -28,4 +28,4 @@ You can contact me via ramminadevdesign@gmail.com and 5106957624.
 - expanding my network and making developer friends
 
 
-**Please check out my projects below! ** 
+**Please check out my projects below!** 
